@@ -1,2 +1,2 @@
-# k_means_clustering-project
-K Means Clustering Project
+# Using K Means Clustering Algorithm
+
